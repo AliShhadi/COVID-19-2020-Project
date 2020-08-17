@@ -4,4 +4,4 @@
 *.js linguist-detectable=false
 *.html linguist-detectable=false
 *.scss linguist-detectable=false
-
+*.map linguist-detectable=false
